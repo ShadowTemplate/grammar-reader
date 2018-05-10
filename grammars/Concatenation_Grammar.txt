@@ -1,0 +1,5 @@
+S > ZD
+Z > 
+Z > aZBC
+D > A
+A > bc
